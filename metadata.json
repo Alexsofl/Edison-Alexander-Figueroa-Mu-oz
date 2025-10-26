@@ -1,0 +1,7 @@
+{
+  "name": "Conectados",
+  "description": "Una plataforma para conectar trabajadores empíricos, técnicos y profesionales independientes con personas que necesitan contratar servicios u oficios en Colombia, promoviendo el trabajo decente y la inclusión digital.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
